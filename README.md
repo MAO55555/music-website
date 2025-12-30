@@ -1,3 +1,5 @@
 # 🎵 享听音乐网
 
-## 👉http://music.lmolmo.xyz
+一个个人音乐网站开发项目，支持音乐展示与播放，涵盖前后端基础功能，用于学习与实践 Web 全栈开发。
+
+## 👉https://music.lmolmo.xyz
